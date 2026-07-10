@@ -1,0 +1,4 @@
+pytest==8.4.1 #to find and run the test cases
+allure-pytest==2.15.0  # to generate the allure report
+pytest-xdist==3.8.0 # for parallel execution of test cases
+pytest-html==4.1.1 # to generate the html report (using allure instead of this)

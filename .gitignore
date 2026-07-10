@@ -1,0 +1,27 @@
+#ignore these files and folders dont upload in github
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# virtual Environment
+.venv/
+venv
+
+# pytest
+.pytest_cache/
+
+# allure
+allure-results/
+allure-report/
+
+# reports
+reports/
+
+
+# logs
+*.log
+
+
+
