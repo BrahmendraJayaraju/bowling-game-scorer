@@ -927,7 +927,7 @@ and execute the workflow.
 ---
 
 
-# Viewing the Allure Report
+# Viewing the Allure Report after 2 min of execution 
 
 After the workflow finishes successfully,
 
